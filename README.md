@@ -197,6 +197,6 @@ Distributed under the no License. See LICENSE.txt for more information.
 Priyanshu Pandey - [@twitter_handle](https://twitter.com/Priyans75729802) - 2040020@sliet.ac.in
 
 Project Link: 
-1. [https://github.com/Priyanshu88/Mern-Media-Backend/](https://github.com/Priyanshu88/MERN-Blog/api)
-2. [https://github.com/Priyanshu88/Mern-Media-Frontend/](https://github.com/Priyanshu88/MERN-Blog/client)
+1. [https://github.com/Priyanshu88/MERN-Blog/](https://github.com/Priyanshu88/MERN-Blog/api)
+2. [https://github.com/Priyanshu88/MERN-Blog/](https://github.com/Priyanshu88/MERN-Blog/client)
 
