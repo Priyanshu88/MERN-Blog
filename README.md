@@ -31,14 +31,14 @@
 ### :camera: Screenshots
 
 - Application Home page
-<div align="center"> <a href=""><img src="" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src='https://github.com/Priyanshu88/MERN-Blog/assets/86107841/ac2ffe46-4d6e-4ed6-bfca-3fd0156533b6' alt='image' width='800'/></a> </div>
 
 <br />
 
 - Content Page
 
 <div align="center">
-<a href=''><img  src='' alt='image' width='800'/></a>
+<a href=''><img  src='https://github.com/Priyanshu88/MERN-Blog/assets/86107841/44f10107-7cb7-4511-9499-49a541e830fb' alt='image' width='800'/></a>
 </div>
 
 <br />
@@ -46,11 +46,12 @@
 - Edit Page
 
 <div align="center">
-<a href=""><img  src='' alt='image' width='800'/></a>
+<a href=""><img  src='https://github.com/Priyanshu88/MERN-Blog/assets/86107841/91f2db9d-e32d-4204-82e9-05a2f1e347f7' alt='image' width='800'/></a>
 </div>
 
 ### :video_camera: Demo
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dyTg9rwYR7I/0.jpg)](https://youtu.be/dyTg9rwYR7I)
 
 
 ### :space_invader: Tech Stack
